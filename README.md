@@ -8,7 +8,7 @@ Before testing, update your variables and directories in the files before perfor
 # Rundown
 1. mcode: This directory has the peristence and revershell Powershell code.
 2. terraformscript: Contains the automagic way to create an s3 bucket in aws that can host files.
-3. CodeSignScript.txt: The code signing script that created from the link below to sign our malicious .exe file.
+3. CodeSignScript.txt: The code signing script that created from the link below to sign our malicious .exe file. Run as admin.
 4. demoC.txt: The text file that provides the steps portrayed in the youtube video to recreate the demo.
 5. mcode.txt: This is the CSharp code to merge with the media installer to initially establish our persistence.
 
