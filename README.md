@@ -18,7 +18,7 @@ http://gphackingarticles.blogspot.com/2012/06/how-to-bind-two-exe-files-using-wi
 
 https://adamtheautomator.com/how-to-sign-powershell-script/
 
-[AWS CLI Configuration](]https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
+[AWS CLI Configuration](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html)
 
 [Terraform S3 Bucket Documentation](https://registry.terraform.io/providers/hashicorp/aws/4.8.0/docs/resources/s3_bucket)
 
