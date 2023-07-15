@@ -14,4 +14,5 @@ Before testing, update your variables and directories in the files before perfor
 
 # Helpful Links
 http://gphackingarticles.blogspot.com/2012/06/how-to-bind-two-exe-files-using-windows.html
+
 https://adamtheautomator.com/how-to-sign-powershell-script/
