@@ -39,7 +39,7 @@ Add
 
 SUBJECT: Check this out!
 
-New VLC media player that will play 8k movies!!!
+New media player that will play 8k movies!!!
 https://disguiseTheUrl
 
 ***ATTENTION*** Be sure to right click and run as administrator. Select "more info" for Windows blue pop-up and choose "Run anyway".
