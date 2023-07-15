@@ -19,3 +19,5 @@ http://gphackingarticles.blogspot.com/2012/06/how-to-bind-two-exe-files-using-wi
 https://adamtheautomator.com/how-to-sign-powershell-script/
 
 https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html
+
+(Powershell Reversshell One-liner)[https://gist.github.com/egre55/c058744a4240af6515eb32b2d33fbed3]
