@@ -13,6 +13,10 @@ Before testing, update your variables and directories in the files before perfor
 5. mcode.txt: This is the CSharp code to merge with the media installer to initially establish our persistence.
 6. Last part of the youtube video demonstration shows teardown of the demo
 
+# Youtube Video
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/xh1IrSag46w/0.jpg)](http://www.youtube.com/watch?v=xh1IrSag46w "1. Demo of Trojan Backdoor")
+
 # Helpful Links
 http://gphackingarticles.blogspot.com/2012/06/how-to-bind-two-exe-files-using-windows.html
 
