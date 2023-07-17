@@ -3,7 +3,7 @@ Disclaimer: Only for educational purposes only.
 An up-to-date example of how to create a trojan installer and utilize cloud infrastructure to host malicious files as well as control a victim machine.
 
 # Remember
-Before testing, update your variables and directories in the files before performing the steps.
+Before testing, update your variables and directories in the files accordingly.
 
 # Rundown
 1. mcode: This directory has the peristence and revershell Powershell code.
