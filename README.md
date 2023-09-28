@@ -26,6 +26,6 @@ https://adamtheautomator.com/how-to-sign-powershell-script/
 
 [Terraform S3 Bucket Documentation](https://registry.terraform.io/providers/hashicorp/aws/4.8.0/docs/resources/s3_bucket)
 
-[Powershell Reversshell One-liner](https://gist.github.com/egre55/c058744a4240af6515eb32b2d33fbed3)
+[Powershell Reverseshell One-liner](https://gist.github.com/egre55/c058744a4240af6515eb32b2d33fbed3)
 
 
